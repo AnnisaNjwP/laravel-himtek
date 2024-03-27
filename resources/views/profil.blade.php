@@ -3,7 +3,7 @@
 
 
 
- <center><h1>Nah Ini Halaman Profil</h1></center>    
+ <center><h1>Ini Halaman Profil</h1></center>    
 @endsection
 
 
